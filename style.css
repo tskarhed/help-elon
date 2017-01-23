@@ -103,6 +103,7 @@ section{
 }
 
 article{
+	max-width: 100%;
 	width: 400px;
 	display: inline-block;
 	vertical-align: top;
